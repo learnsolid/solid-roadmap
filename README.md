@@ -1,20 +1,18 @@
 <p align="center">
-  <a href="http://github.com/kamranahmedse/developer-roadmap">
-    <img src="https://i.imgur.com/Uid1O3A.png" alt="Solid Roadmap" width="96" height="96">
+  <a href="https://learnsolid.cn">
+    <img src="https://solid.inrupt.com/themes/custom/solid/logo.svg" alt="Solid Roadmap" width="96" height="96">
   </a>
   <h2 align="center">Solid Roadmap</h2>
   <p align="center">Roadmap to becoming a Solid Developer in 2019</p>
   <p align="center">
     <a href="https://github.com/learnsolid/solid-roadmap#-introduction"><img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg"/></a>
-          <a href="https://github.com/learnsolid/developer-roadmap/releases"><img src="https://img.shields.io/badge/Roadmaps-Past-yellow.svg"/></a>
-      <a href="https://twitter.com/home?status=Developer%20Roadmap%20by%20%learnsolid%20http%3A//github.com/learnsolid/developer-roadmap"><img src="https://img.shields.io/badge/twitter-tweet-blue.svg"/></a>
   </p>
   <br>
 </p>
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a solid developer.
 
-<sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
+<sub>Check out [Solid China](https://learnsolid.cn)</sub>
 
 ## Disclaimer
 > The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
@@ -46,7 +44,6 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
  
 ## License
 

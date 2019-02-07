@@ -21,17 +21,9 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ![Solid Developer Roadmap Introduction](./images/intro.png)
 
-## Frontend Roadmap
+## Solid Fundamentals Roadmap
 
-![Frontend Roadmap](./images/frontend.png)
-
-## Back-end Roadmap
-
-![Back-end Roadmap](./images/backend.png)
-
-## DevOps Roadmap
-
-![DevOps Roadmap](./images/devops.png)
+![Solid Fundamentals Roadmap](./images/solid-map.png)
 
 ## 🚦 Wrap Up
 
